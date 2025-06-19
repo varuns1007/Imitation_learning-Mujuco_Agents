@@ -1,4 +1,4 @@
-## 🧠 Report Summary: Imitation Learning with DAgger
+## 🧠 Imitation Learning with DAgger
 
 This section summarizes the report on training agents using **DAgger (Dataset Aggregation)** — an iterative imitation learning algorithm. DAgger allows the agent to collect data from its own state distribution while continuing to learn from expert feedback, significantly improving over traditional behavior cloning.
 
